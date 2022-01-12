@@ -17,4 +17,4 @@ const getArgs = (args) => {
     return res;
 };
 
-export { getArgs }
+export { getArgs };
